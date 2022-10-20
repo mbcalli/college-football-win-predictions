@@ -1,4 +1,6 @@
 home_teams,away_teams,win_prob,winner
+georgia-tech,virginia,0.32568426102081943,virginia
+south-alabama,troy,0.7798790396513895,south-alabama
 air-force,boise-state,0.7436490412970059,air-force
 alabama,mississippi-state,0.8451682858820566,alabama
 army,louisiana-monroe,0.8888336774417751,army
@@ -48,6 +50,4 @@ wisconsin,purdue,0.7165220777537438,wisconsin
 wyoming,utah-state,0.3351991537581977,utah-state
 temple,tulsa,0.08262240002702441,tulsa
 western-kentucky,alabama-birmingham,0.9119117560412803,western-kentucky
-georgia-tech,virginia,0.32568426102081943,virginia
-south-alabama,troy,0.7798790396513895,south-alabama
 appalachian-state,georgia-state,0.7853647313157351,appalachian-state
