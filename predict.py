@@ -53,7 +53,7 @@ def predict(override=False):
 		else:
 			X_weekend = pd.concat((X_weekend, X_game))
 
-	clf = joblib.load('models/cfb_model.joblib')
+	clf = joblib.load('models/cfb_lr_model.joblib')
 
 	weekend_df = pd.DataFrame(
 		{
